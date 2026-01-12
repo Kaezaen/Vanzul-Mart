@@ -23,7 +23,7 @@ const About: React.FC = () => {
               />
             </div>
             <div className="absolute -bottom-10 -left-10 w-64 p-10 bg-[#1E2F23] text-[#F9F7F2] rounded-[2.5rem] shadow-2xl hidden md:block">
-              <span className="text-[10px] font-heading font-bold uppercase tracking-[0.3em] opacity-60 mb-2 block">Est. 2024</span>
+              <span className="text-[10px] font-heading font-bold uppercase tracking-[0.3em] opacity-60 mb-2 block">Est. 2026</span>
               <p className="text-2xl font-heading font-bold tracking-tight">Vanzul Mart Modern Retail</p>
             </div>
           </motion.div>
